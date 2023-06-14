@@ -1,0 +1,20 @@
+{
+  "name": "04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/exe01",
+    "dois": "node ./src/exe02",
+    "tres": "node ./src/exe03",
+    "quatro": "node ./src/exe04",
+    "cinco": "node ./src/exe05",
+    "seis": "node ./src/exe06",
+    "sete": "node ./src/exe07",
+    "oito": "node ./src/exe08",
+    "nove": "node ./src/exe09",
+    "dez": "node ./src/exe10"
+  },
+  "author": "",
+  "license": "ISC"
+}
